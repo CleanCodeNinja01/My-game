@@ -6,7 +6,7 @@
 * Run npm install
 * npm start, if no port is already in use it would redirect to http://localhost:3000
 
-- A simple walk through of redux in our project:
+A simple walk through of redux in our project:
 redux is a state management library of different layers, in this opensource project I have used 4 layers:
 * Actions - Actions are any work you want to perform
 * Container (path: src/components/Board/Square/Square.jsx) - Container is responsible for dispatching your actions
