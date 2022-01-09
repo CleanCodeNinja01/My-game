@@ -25,4 +25,6 @@ Pre-requisites:
 * Knowledge of spread operators
 * Basic knowledge of React for props
 
+Check my project here : https://d2tbogunvaotsq.cloudfront.net/
+
 Happy Coding! :) 
